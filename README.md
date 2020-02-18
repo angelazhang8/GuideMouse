@@ -4,7 +4,7 @@ Guide Mouse allows for the tactile exploration of 3D objects digitally. The prog
 
 ## Report & Posters
 
-### The Applicate Interpolator for a Facet of a 3D Polygon Mesh Given the Abscissa and Ordinate Program
+#### The Applicate Interpolator for a Facet of a 3D Polygon Mesh Given the Abscissa and Ordinate Program
 
 [Applicolator Report](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/applicolatorReport.pdf)
 
@@ -25,16 +25,13 @@ Going into this project, I had no idea what Guide Mouse was going to look like. 
 
 ### Applicolator
 To obtain the normal vector for each facet plane of the polyhedron mesh, I calculated the cross product of two vectors making up the facet plane.
-
 ![cross-product](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/cross-product.jpg)
-
 ### CAD Modelling
 After Guide Mouse had become a skeleton of an idea, I proceded to make CAD models for the parts I needed to 3D-print. Ball/socket model [not pictured] was mixed in Blender from Ball/Joint in Thingiverse.
 
 ![AutoCAD1](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/AutoCAD1.jpg)
 ![AutoCAD3](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/AutoCAD3.jpg)
 ![AutoCAD2](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/AutoCAD2.jpg)
-
 ### 3D-Printing
 My high school had the Cubicon 3D printer which I used to print my parts.
 
