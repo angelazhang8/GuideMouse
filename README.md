@@ -23,7 +23,7 @@ Guide Mouse allows for the tactile exploration of 3D objects digitally. The prog
 
 ### Poster
 
-[poster](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/poster.pdf)
+![Project poster](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/poster.pdf)
 
 
 
