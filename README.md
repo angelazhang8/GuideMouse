@@ -30,6 +30,7 @@ To obtain the normal vector for each facet plane of the polyhedron mesh, I calcu
 
 ### CAD Modelling
 After Guide Mouse had become a skeleton of an idea, I proceded to make CAD models for the parts I needed to 3D-print. Ball/socket model [not pictured] was mixed in Blender from Ball/Joint in Thingiverse.
+
 ![AutoCAD1](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/AutoCAD1.jpg)
 ![AutoCAD3](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/AutoCAD3.jpg)
 ![AutoCAD2](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/AutoCAD2.jpg)
