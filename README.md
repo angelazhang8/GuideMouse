@@ -54,4 +54,3 @@ After months of work, it's finally time to fit all the pieces together!
 ![mouse-motors](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/mouse-motors.jpg)
 ![mouse-underside](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/mouse-underside.jpg)
 
-
