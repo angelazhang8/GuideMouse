@@ -15,15 +15,15 @@ Guide Mouse allows for the tactile exploration of 3D objects digitally. The prog
 <!---
 ### Pictures of the Building Process
 
-[picture slideshow](https://github.com/xxxzhangxxx/Guide_Mouse/blob/master/wwsef/pics.pdf)
+[picture slideshow]()
 
-[](https://github.com/xxxzhangxxx/Guide_Mouse/blob/master/wwsef/explanation.pdf)
+[]()
 
 -->
 
 ### Poster
 
-[Project poster](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/poster.pdf)
+[Guide Mouse Poster](https://github.com/xxxzhangxxx/GuideMouse/blob/master/reports/poster.pdf)
 
 
 
