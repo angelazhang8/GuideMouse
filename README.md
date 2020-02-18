@@ -16,4 +16,4 @@ Guide Mouse allows for the tactile exploration of 3D objects digitally. The prog
 
 ## Build Process
 
-[Build-process] (https://github.com/xxxzhangxxx/GuideMouse/blob/master/BuildProcess.md)
+[Build Process](https://github.com/xxxzhangxxx/GuideMouse/blob/master/BuildProcess.md)
